@@ -493,7 +493,7 @@
         <commons-io-version>2.9.0</commons-io-version>
         <commons-string-utils-version>3.4</commons-string-utils-version>
         <commons-lang-version>2.4</commons-lang-version>
-        <commons-csv-version>1.1</commons-csv-version>
+        <commons-csv-version>1.9.0</commons-csv-version>
         <json-schema-validator-version>2.2.14</json-schema-validator-version>
 
         <logback-version>1.2.10</logback-version>
