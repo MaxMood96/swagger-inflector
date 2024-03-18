@@ -146,7 +146,7 @@
                                 <configuration>
                                     <environmentVariables>
                                         <!-- models to generate, empty means *all* -->
-                                        <models></models>
+                                        <models/>
                                         <!-- required by models as a helper -->
                                         <supportingFiles>StringUtil.java</supportingFiles>
                                     </environmentVariables>
